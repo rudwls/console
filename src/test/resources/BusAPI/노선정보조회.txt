@@ -1,0 +1,11 @@
+1. getBusRoutel_list(노선번호에 해당하는 노선 목록 조
+  ServiceKey=8faAoSOaGcwudDnqo0PcEpOS7dEpeXVq8KDKAbCYnHHBM%2FBT%2FqvDKzQ6xbK1G1IIsqF6rFT5lhUPcC6CjlYeGQ%3D%3D
+  strSrch=6628
+  http://ws.bus.go.kr/api/rest/busRouteInfo/getBusRouteList 
+
+  ServiceKey=AaxqTg02PVW%2BZhaIkh4fVAIiknK6EU6ZkfT1lQEHEo2PRlldpzfhjoBwE63YKQGpiY4JdZCjCktTW2yatRX%2FgA%3D%3D
+
+  http://ws.bus.go.kr/api/rest/busRouteInfo/getBusRouteList?strSrch=107&ServiceKey=8faAoSOaGcwudDnqo0PcEpOS7dEpeXVq8KDKAbCYnHHBM%2FBT%2FqvDKzQ6xbK1G1IIsqF6rFT5lhUPcC6CjlYeGQ%3D%3D
+  
+  
+  
